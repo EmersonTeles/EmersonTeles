@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/emersonteles"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonteles&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonteles&layout=compact&show_icons=true&theme=radical&include-all-comits=true&count-private=true&langs_count=4"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonteles&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonteles&count_private=true&langs_count=4&layout=compact&show_icons=true&theme=radical&include-all-comits=tru" />
 </div>
 
 ## Contatos:
