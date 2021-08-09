@@ -4,7 +4,7 @@
 - 🌱 Estudando ReactJS e desenvolvimento web
 - 📫 Contate no email: emersonteles21@gmail.com
 
-<div>
+<div display="flex" flex-direction="row" >
   <a href="https://github.com/emersonteles"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonteles&show_icons=true&theme=dark&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonteles&layout=compact&show_icons=true&theme=dark&include-all-comits=true" />
