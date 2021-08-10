@@ -4,7 +4,7 @@
   - 📘 Estudando ReactJS e desenvolvimento web
   - 👨‍🎓 Cursando Engenharia de Software na Universidade de Brasília - UnB
   - 📫 Contate-me no email: emersonteles21@gmail.com
-  - 🌐 Visite o meu site: emersonteles.vrecel.app
+  - 🌐 Visite o meu site: https://emersonteles.vercel.app
 
 <div display="flex" flex-direction="row" wrap="nowrap">
   <a href="https://github.com/emersonteles"/>  
