@@ -1,7 +1,7 @@
 # Oi, me chamo Emerson Teles👋
 
-  - 🔭 Atualmente atuo com Front-End
-  - 📘 Estudando ReactJS e desenvolvimento web
+  - 🔭 Sou desenvolvedor Front-end junior 
+  - 📘 Trabalho atualmente com Javascript, ReactJS e NextJs
   - 👨‍🎓 Cursando Engenharia de Software na Universidade de Brasília - UnB
   - 📫 Contate-me no email: emersonteles21@gmail.com
   - 🌐 Visite o meu site: https://emersonteles.vercel.app
