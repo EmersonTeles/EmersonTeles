@@ -4,7 +4,7 @@
   - 📘 Trabalho atualmente com Javascript, Typescript utilizando ReactJS, NextJs e NodeJs
   - 👨‍🎓 Cursando Engenharia de Software na Universidade de Brasília - UnB
   - 📫 Contate-me no email: emersonteles21@gmail.com
-  - 🌐 Visite o meu site: https://emersonteles.vercel.app
+  - 🌐 Visite o meu site: https://emersonteles.tech
 
 <div display="flex" flex-direction="row" wrap="nowrap">
   <a href="https://github.com/emersonteles"/>  
